@@ -1,4 +1,4 @@
-```vue
+
 <script setup lang="ts">
 import { ref } from 'vue'
 
@@ -235,4 +235,3 @@ const handleLogin = () => {
 
   </div>
 </template>
-```
